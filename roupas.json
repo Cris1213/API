@@ -1,6 +1,6 @@
 [
 {
-  "id":"1",
+  "id":1,
   "nome": "CHEIN EZwear Vestido pescoço malha com nervuras",
   "categoria": "Femino",
   "preço": "R$46,99",
@@ -8,7 +8,7 @@
 
 },
 {
-  "id":"2",
+  "id":2,
   "nome": "Listrado ocasional Camisola",
   "categoria": "Femino",
   "preço": "R$98,90",
@@ -17,7 +17,7 @@
 },
 
 {
-  "id":"3",
+  "id":3,
   "nome": "DAZY Homens Jaqueta jeans Ombro caído",
   "categoria": "Masculino",
   "preço": "R$66,57",
@@ -25,7 +25,7 @@
 
 },
 {
-  "id":"4",
+  "id":4,
   "nome": "Botões na frente Simples Casual Casacos para homem",
   "categoria": "Masculino",
   "preço": "R$117,95",
@@ -33,7 +33,7 @@
 
 },
 {
-  "id":"5",
+  "id":5,
   "nome": "Recomendado Desenho Animado Fofo Macacões para bêbê",
   "categoria": "Infantil",
   "preço": "R$53,90",
@@ -41,7 +41,7 @@
 
 },
 {
-  "id":"6",
+  "id":6,
   "nome": "Slogan ocasional Conjuntos de bebê",
   "categoria": "Infantil",
   "preço": "R$58,85",
